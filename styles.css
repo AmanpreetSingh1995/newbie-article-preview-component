@@ -41,7 +41,7 @@ main {
 }
 
 .image-container {
-	background-image: url("/images/drawers.jpg");
+	background-image: url("./images/drawers.jpg");
 	width: 100%;
 	background-size: cover;
 	height: 20rem;
